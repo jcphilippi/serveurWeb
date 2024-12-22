@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(216, 213, 202);
+}
+.titre {
+    font-family:Verdana;
+    color:rgb(80, 78, 71);
+    padding: 15px;
+    text-align: center;
+}
+.texte {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    text-align:justify;
+    color:rgb(47, 48, 48);
+    background-color:whitesmoke;
+}
+.cadre {
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+    border: solid;
+    border-width: 4px;
+    padding: 10px;
+    background-color:rgb(54, 54, 54);
+}
+.image_centree {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.liste {
+    list-style-type: square;
+}
+
+a {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(5, 85, 138);
+    font-size: 22px;
+    text-align:center;
+    display: block;   
+}
+a:visited {
+    color: rgb(51, 52, 53);
+}
+a:hover {
+    color: red;
+}
